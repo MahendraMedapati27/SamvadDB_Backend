@@ -1,0 +1,97 @@
+[
+  {
+    "query_id": "a25e7f97-863c-46ac-a3e2-53fe403e396f",
+    "execution_time_sec": 192.9963254928589,
+    "timestamp": 1747456473
+  },
+  {
+    "query_id": "90639b09-9195-4064-9ca4-2a46d7604893",
+    "execution_time_sec": 227.49412894248962,
+    "timestamp": 1747459166
+  },
+  {
+    "query_id": "a58e62ea-786d-44c6-99a5-cb0abcc8492a",
+    "execution_time_sec": 227.46448183059692,
+    "timestamp": 1747459710
+  },
+  {
+    "query_id": "d28f9358-a839-4fd9-98d9-dce67ba3b6a2",
+    "execution_time_sec": 247.81382155418396,
+    "timestamp": 1747460410
+  },
+  {
+    "query_id": "12b1d5e5-61df-4281-a27e-34ebbfc72f38",
+    "execution_time_sec": 239.41437220573425,
+    "timestamp": 1747461932
+  },
+  {
+    "query_id": "ac585053-ddf1-4134-8c89-3f94fce933d4",
+    "execution_time_sec": 246.3393259048462,
+    "timestamp": 1747462360
+  },
+  {
+    "query_id": "ae8f5a6b-d809-4d1e-bd33-d7420f6e0e1e",
+    "execution_time_sec": 250.6673948764801,
+    "timestamp": 1747464586
+  },
+  {
+    "query_id": "2108f468-b6c4-4be0-8c71-e7030424ead1",
+    "execution_time_sec": 206.32841849327087,
+    "timestamp": 1750763404
+  },
+  {
+    "query_id": "d33a27af-e4ca-4774-a83c-c5067194fab6",
+    "execution_time_sec": 26.82487964630127,
+    "timestamp": 1753186937
+  },
+  {
+    "query_id": "3970faa1-2e60-4ceb-a802-b115b9df0b9c",
+    "execution_time_sec": 8.05110239982605,
+    "timestamp": 1753187143
+  },
+  {
+    "query_id": "8165126e-2a65-41ae-a5c3-3ab86b340cc4",
+    "execution_time_sec": 82.86217713356018,
+    "timestamp": 1754927042
+  },
+  {
+    "query_id": "c5c70f23-a055-464e-9ea0-9064a27ce57a",
+    "execution_time_sec": 36.8782160282135,
+    "timestamp": 1754928922
+  },
+  {
+    "query_id": "4c4013fd-b056-4709-ad94-dc20153cd66d",
+    "execution_time_sec": 22.661475658416748,
+    "timestamp": 1754928964
+  },
+  {
+    "query_id": "8aab4de3-633b-4ae5-9e25-45c856bfc829",
+    "execution_time_sec": 33.004669427871704,
+    "timestamp": 1754930931
+  },
+  {
+    "query_id": "e3cbf13b-d395-4468-b79c-93dbc2c48d9e",
+    "execution_time_sec": 49.8238046169281,
+    "timestamp": 1755016760
+  },
+  {
+    "query_id": "df127baf-221f-4f7e-86be-07f8a6091aec",
+    "execution_time_sec": 51.06497812271118,
+    "timestamp": 1755017460
+  },
+  {
+    "query_id": "66a9ad52-cd94-46df-adfe-022219df48c7",
+    "execution_time_sec": 52.356698751449585,
+    "timestamp": 1755536856
+  },
+  {
+    "query_id": "325633cc-551b-488b-a432-6a87da687bab",
+    "execution_time_sec": 51.83219385147095,
+    "timestamp": 1755540179
+  },
+  {
+    "query_id": "0453f423-2949-42bd-bf60-f052210bb7d4",
+    "execution_time_sec": 22.05747127532959,
+    "timestamp": 1755614146
+  }
+]

@@ -1,0 +1,57 @@
+# Web framework
+fastapi
+uvicorn
+
+# CORS handling
+starlette
+
+# Pydantic models
+pydantic
+python-dotenv
+
+# SQLAlchemy and DB dependencies
+sqlalchemy
+
+# Google Generative AI (removed - no longer using Gemini)
+# google-generativeai
+
+# LLMs
+llama-cpp-python
+
+# Transformers and NLP
+transformers
+# Use torch with CUDA 11.8 support
+# See https://pytorch.org/get-started/locally/ for latest versions
+# The following line will install torch with CUDA 11.8 support
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.1.0+cu118
+sentence-transformers
+
+# Vector indexing
+faiss-gpu  # Use GPU version for CUDA
+
+# Data processing
+numpy<2
+pandas
+requests
+python-multipart
+pymysql
+
+# Logging and other utilities
+# All of these below are part of the Python standard library:
+# - logging
+# - re
+# - os
+# - time
+# - json
+# - uuid
+# - tempfile
+# - typing
+# - datetime
+# - traceback
+# - functools
+# - decimal
+# - asyncio
+# - concurrent.futures
+# - pathlib
+groq
